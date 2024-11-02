@@ -1,1 +1,1 @@
-# FORMAL-S-project
+# FORMALS-project
